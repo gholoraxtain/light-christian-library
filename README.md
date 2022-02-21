@@ -15,11 +15,11 @@ In the project directory, you can run:
 
 Clone the project locally, change into the directory, and install the dependencies: 
 git clone https://github.com/johnchristotle/light-christian-library/
-cd light-christian-library
-Install dependancies
-npm start
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+cd light-christian-library - 
+- Install dependancies -
+- npm start
+Runs the app in the development mode.\ -
+- Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ### `Run on Gitpod`
 
